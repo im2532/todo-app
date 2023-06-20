@@ -1,7 +1,4 @@
-clean the room
 go shopping
-learn java add clean
- add a new member
-make pizza
-make sandwitch
+learn java make sandwitch
 Master Python
+buy milk
